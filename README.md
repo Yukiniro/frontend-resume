@@ -104,9 +104,11 @@ The output file can be:
 - Printed to PDF via Ctrl+P / Cmd+P
 - Shared as a single file — no server required
 
-## Inspiration
+## Acknowledgements
 
-This skill is inspired by [frontend-slides](https://github.com/zarazhangrui/frontend-slides) — a Claude Code skill that creates stunning HTML presentations from scratch or PowerPoint files. Frontend Resume adapts its core philosophy (zero dependencies, visual style discovery, anti-AI-slop aesthetics) from slide decks to interactive resume websites.
+This project stands on the shoulders of [frontend-slides](https://github.com/zarazhangrui/frontend-slides) — an exceptional Claude Code skill that transforms PowerPoint files and raw content into stunning HTML presentations. Its bold vision of zero-dependency, anti-AI-slop web artifacts set a high bar for what AI-assisted front-end generation can achieve.
+
+Frontend Resume inherits its curated style presets, font pairings, color palettes, interactive component patterns, and HTML template architecture from frontend-slides, adapting them from slide decks to interactive resume websites. We are deeply grateful to the original authors for their craft and for open-sourcing such a well-designed foundation.
 
 ## License
 
