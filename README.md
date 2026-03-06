@@ -31,7 +31,7 @@ Convert resumes into zero-dependency, animation-rich interactive single-page HTM
 ## Installation
 
 ```bash
-npx skills add https://github.com/Yukiniro/skills --skill frontend-resume
+npx skills add https://github.com/Yukiniro/frontend-resume --skill frontend-resume
 ```
 
 ## Quick Start
